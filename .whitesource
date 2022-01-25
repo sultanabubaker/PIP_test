@@ -10,7 +10,6 @@
     "displayMode": "diff"
   },
   "issueSettings": {
-    "issueType": "DEPENDENCY",
     "minSeverityLevel": "LOW"
   },
   "remediateSettings": {
