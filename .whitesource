@@ -10,8 +10,7 @@
     "displayMode": "diff"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW",
-    "issueType": "VULNERABILITY"
+    "minSeverityLevel": "LOW"
   },
   "remediateSettings": {
     "workflowRules": {
